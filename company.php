@@ -23,13 +23,13 @@
 	        		<div><img src="images/logo_color.png" alt="" /></div>
 	        		
 	        		<h2>
-		        <b>Siapa sih BangArif?</b><br>
-	        		This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. 
+		        <b>Apa sih BangArif.com?</b><br>
+	        		BangArif.com adalah pusat penyedia informasi layanan jasa online terlengkap. Kami menyediakan hampir semua informasi layanan jasa untuk kebutuhan rumah tangga, kantor, dan toko anda. Informasi layanan jasa yang kami sediakan sudah terverifikasi keberadaannya. Untuk saat ini, kami kami hanya menyediakan informasi layanan jasa seputar kota Jakarta. Dan kami akan berekspansi ke kota-kota lainnya dalam waktu dekat. Sehingga akan mencakup informasi layanan jasa seluruh Indonesia. 
 	        		<br><br>
-	        		<b>Ada apa sih di BangArif.com?</b><br>
-	        		Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. <br><br>
+	        		<b>Apa perbedaan BangArif.com dengan portal lainnya?</b><br>
+	        		Di BangArif.com, kami tidak menjual produk. Untuk user, Kami hanya menyediakan informasi layanan jasa yang anda butuhkan sehari-hari secara gratis. Misalnya Sedot WC, Perbaikan AC, Perbaikan Pompa Air, sampai pekerjaan terkecil dalam rumah tangga. Informasi layanan jasa kebutuhan dasar ini akan sangat berguna untuk anda yang memiliki sedikit waktu untuk melakukan pekerjaan rumah tangga. Sedangkan untuk pengusaha layanan jasa, ini BangArif.com dapat digunakan sebagai media promosi yang tepat.Kami akan memberikan rekomendasi kepada user untuk layanan-layanan jasa yang memiliki reputasi bagus.<br><br>
 	        		
-	        		Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam massa nisl quis neque. Suspendisse in orci enim.</h2>
+	        		Jadi, dari pada pasang iklan dipohon, lebih baik diBangArif.com. </h2>
 	        </div>    
 	</div>
 	<footer class="d-tabbar">
